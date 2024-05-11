@@ -2490,3 +2490,11 @@
         margin: 0 auto
     }
 }
+
+.gradient-text {
+    background: linear-gradient(to right, #0091ff, #9cfeff);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-weight: 600;
+}

@@ -28,16 +28,16 @@ const Navbar = () => {
                         </div>
                         <div>
                             <Link
-                                className="text-black nav-link active"
+                                className="gradient-text nav-link active"
                                 aria-current="page"
-                                to="/signup" >Home
+                                to="" >Home
                             </Link>
                         </div>
                         <div>
                             <Link
                                 className="text-black nav-link active"
                                 aria-current="page"
-                                to="/login" >Company
+                                to="" >Company
                             </Link>
                         </div>
                         <div>
