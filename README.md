@@ -1,8 +1,52 @@
-# React + Vite
+# Lenscorp.ai Clone 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a UI clone of Lenscorp.ai, a company that designs and develops custom AI-powered solutions for businesses.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [About](#about)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Tech Stack](#tech-stack)
+
+
+## About
+
+This UI clone replicates the design of Lenscorp.ai, a company specializing in creating tailored AI solutions for businesses.
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+What things you need to install the software and how to install them:
+
+- Node.js 
+- npm 
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   https://github.com/12Shivam12/lenscorp.ai
+   ```
+2. Install dependencies:
+
+   ```
+   npm install
+   ```
+## Tech Stack
+
+List of technologies used in the project:
+
+- React.js
+- HTML
+- CSS
+- Tailwind CSS
+- Vite
+- NPM
+- JavaScript
+   
